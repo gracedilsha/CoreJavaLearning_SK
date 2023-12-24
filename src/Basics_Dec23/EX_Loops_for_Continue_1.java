@@ -8,6 +8,10 @@ public class EX_Loops_for_Continue_1 {
         if(i%2==0)
         {
             System.out.println("Value of Even:"+ i);
+            continue;
         }
+
+
     }
 }}
+
