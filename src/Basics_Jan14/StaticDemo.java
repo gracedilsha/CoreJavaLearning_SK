@@ -9,8 +9,6 @@ public class StaticDemo {
         Demo1.method2();
         d.method1();
 
-
-
     }
 }
         class Demo1 {
